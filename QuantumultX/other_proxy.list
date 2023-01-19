@@ -1,2 +1,2 @@
-host-suffix, licdn.com
-host-suffix, linkedin.com
+host-suffix, licdn.com, proxy
+host-suffix, linkedin.com, proxy
